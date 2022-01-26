@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://loiclavergne.dev/sitemap.xml
+Sitemap: https://lavergne.cc/sitemap.xml
