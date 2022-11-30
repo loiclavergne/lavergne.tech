@@ -1,2 +1,5 @@
 User-agent: *
-Sitemap: https://loiclavergne.dev/sitemap.xml
+Allow: /
+Disallow: /assets
+
+Sitemap: https://loic.lavergne.tech/sitemap.xml
