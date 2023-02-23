@@ -22,15 +22,15 @@ If you would like to get in touch with me, please don't hesitate to reach out. Y
  ~> <strong>ls socials</strong>
 
  LinkedIn: <a href="https://linkedin.com/in/loiclavergne">linkedin.com/in/loiclavergne</a>
- Twitter: <a href="https://twitter.com/loiclavergne">@loiclavergne</a>
- Email: <a href="mailto:twofold.wallow02@icloud.com">iCloud Hide My Email</a>
+ Email:    <a href="mailto:twofold.wallow02@icloud.com">iCloud Hide My Email</a>
+ Twitter:  <a href="https://twitter.com/loiclavergne">@loiclavergne</a>
 </pre>
 
 <pre>
  ~> <strong>cat .plan</strong>
  
  Login: loiclavergne                             Name: Loïc Lavergne
- Directory: /home/loiclavergne                   Shell: /usr/bin/bash
+ Directory: /Users/loiclavergne                  Shell: /usr/bin/bash
 
  <strong>WORK:</strong>
   - Tech Lead Mobile @ Roole
