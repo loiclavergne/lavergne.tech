@@ -12,7 +12,7 @@
 
 My name is **Loïc Lavergne**, and I'm a dedicated and experienced Tech Lead in the mobile industry.
  
-Currently, I am working on Roole Map and am excited about the progress we are making. In my spare time, I am also developing a tiny [Plex](https://plex.tv) client for iOS, iPadOS, tvOS, and macOS, based on a personal modified design of the [Apple TV](https://www.apple.com/apple-tv-app/) app. Additionally, I am adapting [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) on the [Playdate](https://play.date), which has been a fun and challenging project.
+Currently, I am working on [Roole Map](https://apps.apple.com/app/id1621923838) and am excited about the progress we are making. In my spare time, I am also developing a tiny [Plex](https://plex.tv) client for iOS, iPadOS, tvOS, and macOS, based on a personal modified design of the [Apple TV](https://www.apple.com/apple-tv-app/) app. Additionally, I am adapting [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) on the [Playdate](https://play.date), which has been a fun and challenging project.
 
 When I'm not working on technology-related projects, I enjoy reading, playing piano, and chess. I am always happy to discuss topics related to Swift, iOS, or Apple, so feel free to ask me anything.
 
