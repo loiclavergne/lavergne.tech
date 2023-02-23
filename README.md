@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hello there 👋🏻
 
 <pre>
  ~> <strong>cat note.txt</strong>
