@@ -33,9 +33,9 @@ If you would like to get in touch with me, please don't hesitate to reach out. Y
  Directory: /Users/loiclavergne                  Shell: /usr/bin/bash
 
  <strong>WORK:</strong>
-  - Tech Lead Mobile @ Roole
+  - Tech Lead Mobile @ <a href="https://www.roole.fr">Roole</a>
  <strong>SPECIALITIES:</strong>
-  - Swift & SwiftUI, Mobile Developments, Apple enthusiast.
+  - Swift & SwiftUI, Mobile Developments, Apple enthusiast
  <strong>EDUCATION:</strong>
   - Master in Computer Science ➜ Epitech - Paris
 </pre>
